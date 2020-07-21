@@ -11,6 +11,11 @@ Hi! I'm Pedro, a mobile developer with Flutter Framework.
 I'm also a Computer Science student at Federal Institute of Science, Education and Technology from State of Ceará (IFCE).
 
 One of my favorite activities is software development. I really like the idea that I can create something useful for people.
-That's why I develop mobile applications. Every person in this world has a smartphone nowadays.
+That's why I develop mobile applications.
 
-If you want know me better, my contact information is right above. Hope you like what I do.
+My favorite languages are:
+
+- Dart, with the Flutter Framework — I'm actually working with this.
+- Python3, because this was my first language, and I enjoy data science.
+
+If you want know me better, my contact information is right above. Thanks for your attention!
