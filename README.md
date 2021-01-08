@@ -1,5 +1,5 @@
 # Pedro Lemos :man_technologist:
-### Software Engineer Jr. at MusicPlayce | Computer Science student at IFCE
+### Software Engineer at MusicPlayce | Computer Science student at IFCE
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedrolemoz)](https://github.com/pedrolemoz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrolemoz/)](https://www.linkedin.com/in/pedrolemoz/)
